@@ -13,10 +13,4 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycha
-
-# comment for my funk
-# additional comment
-def myfunk():
-    pass
-# additional comment
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
